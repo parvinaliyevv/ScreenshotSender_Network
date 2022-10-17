@@ -6,3 +6,11 @@ C:\Users\HP\source\repos\ScreenshotSender\ScreenshotSender.Server\obj\Debug\Scre
 C:\Users\HP\source\repos\ScreenshotSender\ScreenshotSender.Server\obj\Debug\ScreenshotSender.Server.csproj.CoreCompileInputs.cache
 C:\Users\HP\source\repos\ScreenshotSender\ScreenshotSender.Server\obj\Debug\ScreenshotSender.Server.exe
 C:\Users\HP\source\repos\ScreenshotSender\ScreenshotSender.Server\obj\Debug\ScreenshotSender.Server.pdb
+C:\Users\Aliy_ql08\Desktop\ScreenshotSender-Homework_21.07.2022\ScreenshotSender.Server\bin\Debug\ScreenshotSender.Server.exe.config
+C:\Users\Aliy_ql08\Desktop\ScreenshotSender-Homework_21.07.2022\ScreenshotSender.Server\bin\Debug\ScreenshotSender.Server.exe
+C:\Users\Aliy_ql08\Desktop\ScreenshotSender-Homework_21.07.2022\ScreenshotSender.Server\bin\Debug\ScreenshotSender.Server.pdb
+C:\Users\Aliy_ql08\Desktop\ScreenshotSender-Homework_21.07.2022\ScreenshotSender.Server\obj\Debug\ScreenshotSender.Server.csproj.AssemblyReference.cache
+C:\Users\Aliy_ql08\Desktop\ScreenshotSender-Homework_21.07.2022\ScreenshotSender.Server\obj\Debug\ScreenshotSender.Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aliy_ql08\Desktop\ScreenshotSender-Homework_21.07.2022\ScreenshotSender.Server\obj\Debug\ScreenshotSender.Server.csproj.CoreCompileInputs.cache
+C:\Users\Aliy_ql08\Desktop\ScreenshotSender-Homework_21.07.2022\ScreenshotSender.Server\obj\Debug\ScreenshotSender.Server.exe
+C:\Users\Aliy_ql08\Desktop\ScreenshotSender-Homework_21.07.2022\ScreenshotSender.Server\obj\Debug\ScreenshotSender.Server.pdb

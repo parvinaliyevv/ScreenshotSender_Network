@@ -116,12 +116,13 @@ public class MainViewModel: DependencyObject
     {
         if (!IsConnected) return;
 
-        var stream = ConnectionClient.GetStream();
-        var bytes = Encoding.Default.GetBytes("DisConnect");
-
         try
         {
+            var stream = ConnectionClient.GetStream();
+            var bytes = Encoding.Default.GetBytes("DisConnect");
+
             stream.Write(bytes, 0, bytes.Length);
+
             ConnectionClient.Close();
             ConnectionClient.Dispose();
         }
@@ -179,7 +180,12 @@ public class MainViewModel: DependencyObject
 
         while (true)
         {
-            bytes = client.Receive(ref endPoint);
+            try
+            {
+                bytes = client.Receive(ref endPoint);
+            }
+            catch { continue; }
+
             list.AddRange(bytes);
 
             if (bytes.Length != throughputLength)

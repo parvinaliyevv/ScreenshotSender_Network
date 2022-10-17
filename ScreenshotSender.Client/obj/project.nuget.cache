@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "YMMuXU8E1HlLHgJLpZi0vHfojG0Hog9qI9+UmI0bzHlq9NMIxYIp8GldmYDHV6ENNvg38KNRfMWHvzpZScDCQg==",
+  "dgSpecHash": "jDr+3MBYLKL66pGLUdAKE44jp5bnPdQhGVFUFQYeHTLenD4CDbHZO7QpCoBKzlZbdgFZUtEjW33FoTpPBMFHiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\ScreenshotSender\\ScreenshotSender.Client\\ScreenshotSender.Client.csproj",
+  "projectFilePath": "C:\\Users\\Aliy_ql08\\Desktop\\ScreenshotSender-Homework_21.07.2022\\ScreenshotSender.Client\\ScreenshotSender.Client.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\HP\\.nuget\\packages\\materialdesigncolors\\2.0.9\\materialdesigncolors.2.0.9.nupkg.sha512",
-    "C:\\Users\\HP\\.nuget\\packages\\materialdesignthemes\\4.6.1\\materialdesignthemes.4.6.1.nupkg.sha512"
+    "C:\\Users\\Aliy_ql08\\.nuget\\packages\\materialdesigncolors\\2.0.9\\materialdesigncolors.2.0.9.nupkg.sha512",
+    "C:\\Users\\Aliy_ql08\\.nuget\\packages\\materialdesignthemes\\4.6.1\\materialdesignthemes.4.6.1.nupkg.sha512"
   ],
   "logs": []
 }

@@ -67,7 +67,8 @@ namespace ScreenshotSender.Server
             }
             catch
             {
-                Console.WriteLine("Failed to start server!"); return;
+                Console.WriteLine("Failed to start server!");
+                Console.ReadKey(); return;
             }
 
             AcceptTcpClientsAsync();
